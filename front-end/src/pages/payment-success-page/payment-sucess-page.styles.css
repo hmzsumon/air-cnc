@@ -1,0 +1,40 @@
+.payment-success-page {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 80vh;
+	/* background: #000000db; */
+}
+
+.payment-status-success {
+	height: 80%;
+	/* background: red; */
+	width: 450px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-evenly;
+}
+
+.payment-status-success img {
+	height: 150px;
+	width: auto;
+}
+
+.payment-status-success h2 {
+	font-weight: 400;
+}
+
+.payment-status-success h1 {
+	font-weight: 700;
+}
+
+.payment-status-success .custom-button {
+	height: 43px;
+}
+
+.payment-status-success h4 {
+	font-size: 16px;
+	color: #6d6d6d;
+	font-weight: 400;
+}
